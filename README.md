@@ -1,1 +1,1 @@
-Demo: https://kirmiziisik-binary-to-decimal.netlify.app/
+Demo: https://sezerusak-binary-to-decimal.netlify.app/
